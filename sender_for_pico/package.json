@@ -1,0 +1,12 @@
+{
+  "name": "sender_for_pico",
+  "version": "1.0.0",
+  "main": "service.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@serialport/parser-readline": "^13.0.0",
+    "serialport": "^13.0.0"
+  }
+}
