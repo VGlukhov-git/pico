@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/vglukhov/PROJECTS/pico/pico-sdk/test/hardware_irq_test"
+        "cmake.sourceDirectory": "D:/Projects/pico/pwm",
+        "micropico.syncFolder": "pwm"
 }
